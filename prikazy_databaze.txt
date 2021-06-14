@@ -1,0 +1,2 @@
+prava:
+  grant select, insert, update on anketa.* to 'anketa'@'localhost';
